@@ -50,8 +50,9 @@ Update-Database
 
 
 
-Cela ukazkova databaza je vo : OrgManagerDbt.sql
+Cela ukazkova databaza je v subore : OrgManagerDbt.sql
 
+Popripade BackUp BD : OrgManagerDbt_BackUp.bacpac
 
 
 
